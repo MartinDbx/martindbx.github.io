@@ -5,7 +5,7 @@ description: "Notes by Martin Debaisieux."
 
 # Notes
 
-<h5>
+<span style="font-size:0.9em;">
 
 (2024) Des Silmarils et de la théorie de Hodge p-adique. [PDF]()
 
@@ -19,3 +19,4 @@ description: "Notes by Martin Debaisieux."
 
 (2021) Théorie de Galois infinie et cohomologie, encadré par G. Bosco. [PDF]()
 
+</span>
