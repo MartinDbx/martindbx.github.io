@@ -55,26 +55,18 @@ params:
     profileMode:
           enabled: true
           title: Martin Debaisieux
-          subtitle: "I am a PhD student supervised by Maja Volkov from the Mathematics Department of the University of Mons (UMONS). My PhD is funded by the F.R.S.-FNRS. I am working on Lubin's conjecture, an inverse problem in the theory of formal groups defined over the ring of integers of a finite extension of **Q**p, using p-adic Hodge theory."
-          imageUrl: "picture.jpeg"
+          subtitle: "I am a PhD student supervised by Maja Volkov from the [Mathematics Department](https://web.umons.ac.be/fs-mathematique/en/home/) of the University of Mons. My PhD is funded by the F.R.S.-FNRS. I am currently working on an inverse problem in the theory of formal groups defined over the ring of integers of a finite extension of **Q**p known as Lubin's conjecture, using p-adic Hodge theory."
+          imageUrl: "profile-picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          imageTitle: John Marston
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
+            - name: Notes
+              url: notes/
+            - name: Codes
+              url: codes/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: Email
@@ -86,7 +78,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Martin Debaisieux"
       icon: favicon.ico
       iconHeight: 18
 
