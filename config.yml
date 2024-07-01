@@ -55,8 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Martin Debaisieux
-          subtitle: "I am a PhD student supervised by Maja Volkov from the Algebraic Geometry Unit of the Mathematics Department of the University of Mons (UMONS). My PhD is funded by the F.R.S.-FNRS. 
-          My research project results from the encounter between arithmetic and dynamical systems. It aims to make progress in solving Jonathan Lubin's conjecture, an inverse problem in the theory of formal groups defined over the ring of integers of a finite extension of Qp. This problem has been mobilizing part of the mathematical community since 1994, and remains largely open to this day. A milestone was reached by Joel Specter in 2018, relying in an essential way on methods in p-adic Hodge theory. We propose to extend these results to finite extensions of Zp."
+          subtitle: "I am a PhD student supervised by Maja Volkov from the Algebraic Geometry Unit of the Mathematics Department of the University of Mons (UMONS). My PhD is funded by the F.R.S.-FNRS.\\ My research project results from the encounter between arithmetic and dynamical systems. It aims to make progress in solving Jonathan Lubin's conjecture, an inverse problem in the theory of formal groups defined over the ring of integers of a finite extension of Qp. This problem has been mobilizing part of the mathematical community since 1994, and remains largely open to this day. A milestone was reached by Joel Specter in 2018, relying in an essential way on methods in p-adic Hodge theory. We propose to extend these results to finite extensions of Zp."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -79,7 +78,7 @@ params:
 
     socialIcons:
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
+          url: mailto:martin.debaisieux@umons.ac.be
 
     assets:
         disableScrollBarStyle: true
