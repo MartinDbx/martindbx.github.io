@@ -55,7 +55,8 @@ params:
     profileMode:
           enabled: true
           title: Martin Debaisieux
-          subtitle: "I am a PhD student supervised by Maja Volkov from the Algebraic Geometry Unit of the Mathematics Department of the University of Mons (UMONS). My PhD is funded by the F.R.S.-FNRS. My research project results from the encounter between arithmetic and dynamical systems. It aims to make progress in solving Jonathan Lubin's conjecture, an inverse problem in the theory of formal groups defined over the ring of integers of a finite extension of Qp. This problem has been mobilizing part of the mathematical community since 1994, and remains largely open to this day. A milestone was reached by Joel Specter in 2018, relying in an essential way on methods in p-adic Hodge theory. We propose to extend these results to finite extensions of Zp."
+          subtitle: "I am a PhD student supervised by Maja Volkov from the Algebraic Geometry Unit of the Mathematics Department of the University of Mons (UMONS). My PhD is funded by the F.R.S.-FNRS. 
+          My research project results from the encounter between arithmetic and dynamical systems. It aims to make progress in solving Jonathan Lubin's conjecture, an inverse problem in the theory of formal groups defined over the ring of integers of a finite extension of Qp. This problem has been mobilizing part of the mathematical community since 1994, and remains largely open to this day. A milestone was reached by Joel Specter in 2018, relying in an essential way on methods in p-adic Hodge theory. We propose to extend these results to finite extensions of Zp."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -77,26 +78,8 @@ params:
               url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: cv
-          url: cv.pdf
         - name: Email
           url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
 
     assets:
         disableScrollBarStyle: true
