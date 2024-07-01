@@ -1,5 +1,5 @@
 ---
-title: "Papers"
+title: "Notes"
 description: "Notes by Martin Debaisieux."
 ---
 
