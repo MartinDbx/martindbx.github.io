@@ -19,8 +19,4 @@ description: "Notes by Martin Debaisieux."
 
 **(2021)** Théorie de Galois infinie et cohomologie, supervised by G. Bosco. [PDF](infinite-galois-theory.pdf)
 
-&nbsp;
-
-This is a non-exhaustive list of the documents I wrote :)
-
 </span>
