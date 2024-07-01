@@ -1,4 +1,4 @@
-baseURL: "https://martindbx.github.io" 
+baseURL: "https://martindbx.github.io"
 title: Martin Debaisieux
 paginate: 20
 theme: PaperMod
@@ -13,7 +13,7 @@ menu:
     main:
         - name: Books
           url: books/
-          weight: 5 
+          weight: 5
         - name: Papers
           url: papers/
           weight: 2
@@ -22,7 +22,7 @@ menu:
           weight: 3
         - name: Data
           url: data/
-          weight: 4 
+          weight: 4
         - name: Blog
           url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
           weight: 6
@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Martin Debaisieux
-          subtitle: "I am a PhD student supervised by Maja Volkov from the Algebraic Geometry Unit of the Mathematics Department of the University of Mons (UMONS). My PhD is funded by the F.R.S.-FNRS.\\ My research project results from the encounter between arithmetic and dynamical systems. It aims to make progress in solving Jonathan Lubin's conjecture, an inverse problem in the theory of formal groups defined over the ring of integers of a finite extension of Qp. This problem has been mobilizing part of the mathematical community since 1994, and remains largely open to this day. A milestone was reached by Joel Specter in 2018, relying in an essential way on methods in p-adic Hodge theory. We propose to extend these results to finite extensions of Zp."
+          subtitle: "I am a PhD student supervised by Maja Volkov from the Mathematics Department of the University of Mons (UMONS). My PhD is funded by the F.R.S.-FNRS. I am working on Lubin's conjecture, an inverse problem in the theory of formal groups defined over the ring of integers of a finite extension of **Q**p, using p-adic Hodge theory."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -96,7 +96,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: autumn
     tableOfContents:
         endLevel: 2
         ordered: false
