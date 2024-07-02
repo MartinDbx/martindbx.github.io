@@ -5,6 +5,8 @@ description: "Notes by Martin Debaisieux."
 
 # Notes
 
+<span style="font-size:.9em;">
+
 (2024) **Des Silmarils et de la théorie de Hodge p-adique**.\
 Last updated on June 25, 2024. [PDF](fontaine-rings-representations.pdf)
 
@@ -28,3 +30,5 @@ Last updated on June 4, 2022. [PDF1](category-ch1.pdf), [PDF2](category-ch2.pdf)
 
 (2021) **Théorie de Galois infinie et cohomologie** (research initiation internship)\
 Supervised by Giovanni Bosco. [PDF](infinite-galois-theory.pdf)
+
+</span>
