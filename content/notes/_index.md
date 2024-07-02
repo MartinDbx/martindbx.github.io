@@ -25,7 +25,7 @@ Last updated on November 4, 2022. [PDF](ultrametric-fields.pdf)
 (2022) **Théorie algébrique des nombres**.\
 Last updated on June 13, 2022. [PDF](ant.pdf)
 
-(2022) **Initiation à l'algèbre catégorique**, with Valentin Dusollier.\
+(2022) **Initiation à l'algèbre catégorique**, joint with Valentin Dusollier.\
 Last updated on June 4, 2022. [PDF1](category-ch1.pdf), [PDF2](category-ch2.pdf)
 
 (2021) **Théorie de Galois infinie et cohomologie** (research initiation internship)\
