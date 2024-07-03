@@ -9,7 +9,7 @@ description: "Codes by Martin Debaisieux."
 
 <span style="font-size:.9em;">
 
-**Lazy LaTeX** (for VSCode)\
+**Lazy LaTeX** (for Visual Studio Code)\
 Collections of LaTeX snippets for Visual Studio Code, extending [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) by James Yu.\
 Download the latest version on <a href="https://gitHub.com/MartinDbx/Lazy-LaTeX">GitHub</a>.
 
