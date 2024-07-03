@@ -13,6 +13,9 @@ Last updated on June 25, 2024. [PDF](fontaine-rings-representations.pdf)
 (2023) **Systèmes dynamiques p-adiques** (master's thesis)\
 Supervised by Maja Volkov. [Abstract](p-adic-dynamics-abstract.pdf)
 
+(2023) **Théorie de la ramification**\
+Last updated on January 23, 2023. [PDF1](ramification-ch1.pdf), [PDF1](ramification-ch2.pdf)
+
 (2023) **Géométrie algébrique**\
 Last updated on February 8, 2023. [PDF1](algebraic-geometry-ch0.pdf), [PDF2](algebraic-geometry-ch1.pdf), [PDF3](algebraic-geometry-ch2.pdf), [PDF4](algebraic-geometry-ch3.pdf)
 
