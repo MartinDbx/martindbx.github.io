@@ -5,13 +5,13 @@ description: "Codes by Martin Debaisieux."
 
 # Codes
 
-## LaTeX tools & templates
+## LaTeX tools & templates heu
 
 <span style="font-size:.9em;">
 
 **Lazy LaTeX** (for VSCode)\
 Collections of LaTeX snippets for Visual Studio Code, extending [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) by James Yu.\
-Download the latest version on [GitHub](https://github.com/MartinDbx/Lazy-LaTeX).
+Download the latest version on <a href="[https:/google.com](https://gitHub.com/MartinDbx/Lazy-LaTeX)">Github</a>.
 
 **UMons Metropolis**\
 An unofficial (but well received) UMons template for the beamer class. Based on the [metropolis](https://github.com/matze/mtheme) beamer theme.\
