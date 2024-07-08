@@ -8,7 +8,7 @@ description: "Notes by Martin Debaisieux."
 <span style="font-size:.9em;">
 
 (2024) **Des Silmarils et de la théorie de Hodge p-adique**\
-Last updated on June 25, 2024. [PDF](fontaine-rings-representations.pdf)
+Last updated on June 25, 2024. [PDF](fontaine-prings-reps.pdf)
 
 (2023) **Systèmes dynamiques p-adiques** (master's thesis)\
 Supervised by Maja Volkov. [Abstract](p-adic-dynamics-abstract.pdf)
