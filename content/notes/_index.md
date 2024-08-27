@@ -17,7 +17,7 @@ Supervised by Maja Volkov. [Abstract](p-adic-dynamics-abstract.pdf)
 Last updated on January 23, 2023. [PDF](ramification.pdf)
 
 (2023) **Géométrie algébrique**\
-Last updated on February 8, 2023. [PDF1](algebraic-geometry-ch0.pdf), [PDF2](algebraic-geometry-ch1.pdf), [PDF3](algebraic-geometry-ch2.pdf), [PDF4](algebraic-geometry-ch3.pdf)
+Last updated on February 8, 2023. [PDF](algebraic-geometry.pdf)
 
 (2022) **Représentations C-linéaires des groupes finis**\
 Last updated on December 11, 2022. [PDF](representations.pdf)
