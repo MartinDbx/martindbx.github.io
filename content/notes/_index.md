@@ -7,7 +7,7 @@ description: "Notes by Martin Debaisieux."
 
 <span style="font-size:.9em;">
 
-(2024) **Initiation aux anneaux de périodes p-adiques**\
+(2024) **Des Silmarils et de la Théorie de Hodge p-adique**\
 Last updated on June 25, 2024. [PDF](fontaine-prings-reps.pdf)
 
 (2023) **Systèmes dynamiques p-adiques** (master's thesis)\
