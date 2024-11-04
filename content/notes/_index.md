@@ -5,7 +5,7 @@ description: "Notes by Martin Debaisieux."
 
 # Notes
 
-<span style="font-size:.85em;">
+<span style="font-size:.9em;">
 
 2024 **Des Silmarils et de la Théorie de Hodge p-adique**\
 <span style="color: rgba(0, 0, 0, 0);">2024 </span>Last updated on October 10, 2024. [PDF](fontaine-prings-reps.pdf)
@@ -22,7 +22,7 @@ description: "Notes by Martin Debaisieux."
 2022 **Représentations C-linéaires des groupes finis**\
 <span style="color: rgba(0, 0, 0, 0);">2022 </span>Last updated on December 11, 2022. [PDF](representations.pdf)
 
-<span style="color: rgba(0, 0, 0, 0);">2022 </span>**Introduction analytique aux corps ultramétriques**\
+<span style="color: rgba(0, 0, 0, 0);">2022 </span>**Une introduction analytique aux corps ultramétriques**\
 <span style="color: rgba(0, 0, 0, 0);">2022 </span>Last updated on August 27, 2024. [PDF](ultrametric-fields.pdf)
 
 <span style="color: rgba(0, 0, 0, 0);">2022 </span>**Théorie algébrique des nombres**\
