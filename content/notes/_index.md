@@ -17,8 +17,8 @@ description: "Notes by Martin Debaisieux."
 <span style="color: rgba(0, 0, 0, 0);">2023 </span>&nbsp; **Une étude locale de la ramification dans les extensions de corps de nombres**\
 <span style="color: rgba(0, 0, 0, 0);">2023 </span>&nbsp; Last updated on November 5, 2024. [PDF](ramification.pdf)
 
-<span style="color: rgba(0, 0, 0, 0);">2023 </span>&nbsp; **Géométrie algébrique**\
-<span style="color: rgba(0, 0, 0, 0);">2023 </span>&nbsp; Last updated on February 8, 2023. [PDF](algebraic-geometry.pdf)
+<span style="color: rgba(0, 0, 0, 0);">2023 </span>&nbsp; **Introduction à la géométrie algébrique**\
+<span style="color: rgba(0, 0, 0, 0);">2023 </span>&nbsp; Last updated on November 8, 2024. [Preparation](AG-prepa.pdf), [PDF](algebraic-geometry.pdf)
 
 
 2022 &nbsp; **Une introduction analytique aux corps ultramétriques**\
