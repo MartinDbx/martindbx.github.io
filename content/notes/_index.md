@@ -24,11 +24,12 @@ description: "Notes by Martin Debaisieux."
 2022 &nbsp; **Une introduction analytique aux corps ultramétriques**\
 <span style="color: rgba(0, 0, 0, 0);">2022 </span>&nbsp; Last updated on November 5, 2024. [PDF](ultrametric-fields.pdf)
 
+<span style="color: rgba(0, 0, 0, 0);">2022 </span>&nbsp; **Notes sur les représentations C-linéaires des groupes finis**\
+<span style="color: rgba(0, 0, 0, 0);">2022 </span>&nbsp; Last updated on December 6, 2024. [PDF](representations.pdf)
+
 <span style="color: rgba(0, 0, 0, 0);">2022 </span>&nbsp; **Théorie algébrique des nombres**\
 <span style="color: rgba(0, 0, 0, 0);">2022 </span>&nbsp; Last updated on June 13, 2022. [PDF](ant.pdf)
 
-<span style="color: rgba(0, 0, 0, 0);">2022 </span>&nbsp; **Représentations C-linéaires des groupes finis**\
-<span style="color: rgba(0, 0, 0, 0);">2022 </span>&nbsp; Last updated on December 11, 2022. [PDF](representations.pdf)
 
 <span style="color: rgba(0, 0, 0, 0);">2022 </span>&nbsp; **Initiation à l'algèbre catégorique**, joint with Valentin Dusollier\
 <span style="color: rgba(0, 0, 0, 0);">2022 </span>&nbsp; Last updated on June 4, 2022. [PDF1](category-ch1.pdf), [PDF2](category-ch2.pdf)
