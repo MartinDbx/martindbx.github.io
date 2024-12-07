@@ -25,7 +25,7 @@ description: "Notes by Martin Debaisieux."
 <span style="color: rgba(0, 0, 0, 0);">2022 </span>&nbsp; Last updated on November 5, 2024. [PDF](ultrametric-fields.pdf)
 
 <span style="color: rgba(0, 0, 0, 0);">2022 </span>&nbsp; **Notes sur les représentations C-linéaires des groupes finis**\
-<span style="color: rgba(0, 0, 0, 0);">2022 </span>&nbsp; Last updated on December 6, 2024. [PDF](representations.pdf)
+<span style="color: rgba(0, 0, 0, 0);">2022 </span>&nbsp; Last updated on December 7, 2024. [PDF](representations.pdf)
 
 <span style="color: rgba(0, 0, 0, 0);">2022 </span>&nbsp; **Théorie algébrique des nombres**\
 <span style="color: rgba(0, 0, 0, 0);">2022 </span>&nbsp; Last updated on June 13, 2022. [PDF](ant.pdf)
