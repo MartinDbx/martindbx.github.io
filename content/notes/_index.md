@@ -7,7 +7,7 @@ description: "Notes by Martin Debaisieux."
 
 <span style="font-size:.9em;">
 
-2024 &nbsp; **Une initiation à la Théorie de Hodge p-adique**\
+2024 &nbsp; **Des Silmarils et de la Théorie de Hodge p-adique**\
 <span style="color: rgba(0, 0, 0, 0);">2024 </span>&nbsp; Last updated on October 10, 2024. [PDF](fontaine-prings-reps.pdf)
 
 
