@@ -1,0 +1,786 @@
+<!doctype html>
+<html>
+	<head>
+        <title>Martin Debaisieux &sdot; PhD Student in Mathematics</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="icon" type="image/x-icon" href="/resources/favicon.ico">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Home page of Martin Debaisieux">
+        <meta name="generator" content="https://www.npmjs.com/package/jsonresume-theme-orbit-original"/>
+
+        <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,300italic,300,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+        <style>
+                /*
+ * Template Name: Orbit - Responsive Resume/CV Template for Developers
+ * Version: 1.0
+ * Author: Xiaoying Riley
+ * Twitter: @3rdwave_themes
+ * License: Creative Commons Attribution 3.0 License
+ * Website: http://themes.3rdwavemedia.com/
+*/
+/* styles.css */
+/* ======= Base ======= */
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #545E6C;
+  background: #f5f5f5;
+  font-size: 14px;
+  padding: 30px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+a {
+  color: #2d7788;
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+}
+a:hover {
+  text-decoration: underline;
+  color: #1a454f;
+}
+a:focus {
+  text-decoration: none;
+}
+p {
+  line-height: 1.5;
+}
+.wrapper {
+  background: #888A8D;
+  max-width: 1020px;
+  margin: 0 auto;
+  position: relative;
+  -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+.sidebar-wrapper {
+  background: #888A8D;
+  position: absolute;
+  right: 0;
+  width: 298px;
+  height: 100%;
+  min-height: 910px; /* modified from 800 */
+  color: #fff;
+}
+.sidebar-wrapper a {
+  color: #fff;
+}
+.sidebar-wrapper .profile-container {
+  padding: 30px;
+  background: rgba(0, 0, 0, 0.2);
+  text-align: center;
+  color: #fff;
+}
+.sidebar-wrapper .name {
+  font-size: 32px;
+  font-weight: 900;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+.sidebar-wrapper .tagline {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.sidebar-wrapper .profile {
+  margin-bottom: 15px;
+  height: 150px;
+}
+.sidebar-wrapper .contact-list .fas{
+  margin-right: 5px;
+  font-size: 18px;
+  vertical-align: text-top;
+}
+
+.sidebar-wrapper .fab{
+  margin-right: 5px;
+  font-size: 18px;
+  vertical-align: text-top;
+}
+
+.sidebar-wrapper .contact-list li {
+  margin-bottom: 15px;
+}
+.sidebar-wrapper .contact-list li:last-child {
+  margin-bottom: 0;
+}
+.sidebar-wrapper .container-block {
+  padding: 30px;
+  padding-bottom: 10px;
+}
+.sidebar-wrapper .container-block-title {
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+.sidebar-wrapper .degree {
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+.sidebar-wrapper .education-container .item {
+  margin-bottom: 15px;
+}
+.sidebar-wrapper .education-container .item:last-child {
+  margin-bottom: 0;
+}
+.sidebar-wrapper .education-container .meta {
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 500;
+  margin-bottom: 0px;
+  margin-top: 0;
+}
+.sidebar-wrapper .education-container .time .time-low .time-strong{
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+.sidebar-wrapper .languages-container .lang-desc {
+  color: rgba(255, 255, 255, 0.6);
+}
+.sidebar-wrapper .languages-list {
+  margin-bottom: 0;
+}
+.sidebar-wrapper .languages-list li {
+  margin-bottom: 10px;
+}
+.sidebar-wrapper .languages-list li:last-child {
+  margin-bottom: 0;
+}
+.sidebar-wrapper .interests-list {
+  margin-bottom: 0;
+}
+.sidebar-wrapper .interests-list li {
+  margin-bottom: 10px;
+}
+.sidebar-wrapper .interests-list li:last-child {
+  margin-bottom: 0;
+}
+.main-wrapper {
+  background: #fff;
+  padding: 60px;
+  padding-right: 350px;
+  min-height: 910px; /* modified from 800 */
+}
+.main-wrapper .section-title {
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 500;
+  color: #009789;
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.main-wrapper .section-title .fas{
+  width: 30px;
+  height: 30px;
+  margin-right: 8px;
+  display: inline-block;
+  color: #009789;
+  text-align: center;
+  padding-top: 8px;
+  font-size: 21px;
+  position: relative;
+  top: 0px;
+  vertical-align: text-bottom;
+}
+
+.main-wrapper .section-title .far{
+  width: 30px;
+  height: 30px;
+  margin-right: 8px;
+  display: inline-block;
+  color: #009789;
+  text-align: center;
+  padding-top: 8px;
+  font-size: 21px;
+  position: relative;
+  top: 0px;
+  vertical-align: text-bottom;
+}
+
+.main-wrapper .section {
+  margin-bottom: 60px;
+}
+.main-wrapper .experiences-section .item {
+  margin-bottom: 30px;
+}
+.main-wrapper .upper-row {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 2px;
+}
+.main-wrapper .job-title {
+  color: #3F4650;
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 500;
+}
+.main-wrapper .time {
+  position: absolute;
+  right: 0;
+  top: 0;
+  color: #97AAC3;
+}
+
+.main-wrapper .time-low {
+  position: absolute;
+  right: 0;
+  top: 18px;
+  color: #97AAC3;
+}
+
+.main-wrapper .time-strong {
+  position: absolute;
+  float: right;
+  right: 0;
+  top: 0;
+  color: #3F4650;
+  max-width: 50%;
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 500;
+  text-align: right;
+  /*
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-align-content: center;
+  align-content: center;
+  */
+}
+
+.main-wrapper .company {
+  margin-bottom: 0px;
+  color: #97AAC3;
+}
+.main-wrapper .project-title {
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: 5px;
+  color: #009789;
+  }
+.main-wrapper .projects-section .intro {
+  margin-bottom: 30px;
+}
+.main-wrapper .projects-section .item {
+  margin-bottom: 15px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.skillset .item {
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+.skillset .level-title {
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+.skillset .level-bar {
+  height: 12px;
+  background: #f5f5f5;
+}
+.skillset .level-bar-inner {
+  height: 12px;
+  background: #7bc2d3;
+}
+.footer {
+  padding: 30px;
+  padding-top: 60px;
+}
+.footer .copyright {
+  line-height: 1.6;
+  color: #545E6C;
+  font-size: 13px;
+}
+.footer .fa-heart {
+  color: #fb866a;
+}
+/* Extra small devices (phones, less than 768px) */
+@media (max-width: 767px) {
+
+  body {
+      padding: 0px;
+  }
+  .sidebar-wrapper {
+    position: static;
+    width: inherit;
+  }
+  .main-wrapper {
+    padding: 30px;
+  }
+  .main-wrapper .time .time-low .time-strong{
+    position: static;
+    display: block;
+    margin-top: 5px;
+  }
+
+  .main-wrapper .upper-row {
+    margin-bottom: 0;
+  }
+}
+/* Small devices (tablets, 768px and up) */
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .skillset .level-title {
+    display: inline-block;
+    float: left;
+    width: 30%;
+    margin-bottom: 0;
+  }
+  .skillset .level-bar {
+    display: inline-block;
+    width: 70%;
+    float: left;
+    position: relative;
+    top: 1px;
+  }
+}
+/* Large devices (large desktops, 1200px and up) */
+/* Ex-Large devices (large desktops, 1200px and up) */
+
+/* Added for row of logos */
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 20px;
+  margin-top: -20px;
+  margin-bottom: 20px;
+  height: : 100%;
+
+}
+
+.column2 {
+  float: left;
+  width: 50%;
+  height: : 100%;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+</style>
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class="sidebar-wrapper">
+
+      <div class="profile-container">
+        <!-- <img class="profile" src="resources/photo.jpg" alt="" /> -->
+        <h1 class="name"><a href="https://martindbx.github.io/"
+				style="text-decoration : none">Martin Debaisieux</a></h1>
+        <h3 class="tagline">PhD Student in Mathematics</h3>
+      </div>
+
+          <div class="contact-container container-block">
+            <head><h2 class="container-block-title">contact</h2></head>
+            <ul class="list-unstyled contact-list">
+              <li class="email"><i class="fas
+              fa-envelope"></i>martin.[name]@umons.ac.be</li>
+              <li class="location">
+                <a href="https://www.google.com/maps?q=B%C3%A2timent%20De%20Vinci%2C%20Avenue%20Victor%20Maistriau%2019%207000%20Mons%20Belgium%20" title="Address" target="_blank" itemscope itemtype="http://schema.org/PostalAddress">
+                  <i class="fas fa-map-marker-alt"></i>
+                  <span class="info">
+                    <span itemprop="streetAddress">Bâtiment De Vinci, Avenue Victor Maistriau 15,</span>
+                    <span itemprop="postalCode">7000</span>
+                    <span itemprop="addressLocality">Mons,</span>
+                    <span itemprop="addressRegion">Belgium</span>
+                  </span>
+                </a>
+              </li>
+              <li class="website"><i class="fab fa-github"></i><a href="https://github.com/MartinDbx" target="_blank">MartinDbx</a></li>
+            </ul>
+          </div>
+
+
+
+          <div class="education-container container-block">
+            <h2 class="container-block-title">Education</h2>
+	    <div class="item">
+              <h4 class="degree">PhD in Mathematics</h4>
+              <h5 class="meta">University of Mons</h5>
+              <div class="time">2023 - Present</div>
+            </div><!--//item-->
+            <div class="item">
+              <h4 class="degree">MSc in Mathematics</h4>
+              <h5 class="meta">University of Mons</h5>
+              <div class="time">2021 - 2023</div>
+            </div><!--//item-->
+            <div class="item">
+              <h4 class="degree">BSc in  Mathematics</h4>
+              <h5 class="meta">University of Mons</h5>
+              <div class="time">2018 - 2021</div>
+            </div><!--//item-->
+          </div><!--//education-container-->
+
+
+        </div><!--//sidebar-wrapper-->
+
+        <div class="main-wrapper">
+
+    <section class='row'>
+        <div class='column' id='logos'>
+            <center>
+            <a href="https://web.umons.ac.be/">
+              <div>
+                <img class="logos" src="resources/UMONS-logo.png" alt="" itemprop="image" style="max-width:90%">
+              </div>
+            </a>
+          </center>
+          </div>
+        <div class='column' id='logos'>
+            <center>
+            <a href="https://www.frs-fnrs.be/en/">
+              <div>
+                <img class="logos" src="resources/FRS-FNRS_logo_en.png" alt="" itemprop="image" style="max-width:50%">
+              </div>
+            </a>
+            </center>
+          </div>
+        </section>
+
+
+          <section class="section summary-section">
+            <h2 class="section-title"><i class="far fa-comment-alt"></i>Summary</h2>
+            <div class="summary">
+	      <p align="justify">I am a PhD student supervised by <a href="https://staff.umons.ac.be/maja.volkov/index.html">Maja Volkov</a> from the Mathematics Department of the <a href="https://web.umons.ac.be">University of Mons (UMONS)</a>. My PhD is funded by the <a href="https://www.frs-fnrs.be/en/">F.R.S.-FNRS</a>. I am interested in arithmetic dynamics, currently working on Lubin's conjecture using p-adic Hodge theory.
+            </div><!--//summary-->
+          </section><!--//section-->
+
+	  <!-- <section class="section experiences-section">
+            <h2 class="section-title"><i class="far fa-newspaper"></i>Publications</h2>
+            <div class="csl-bib-body">
+            </div>
+	    <h4>Invited papers in international conferences</h4>
+            <ul  style="list-style-type:bullet">
+	      <li>
+        	<b>Reachability Games and Friends: A Journey Through
+        	  the Lens of Memory and Complexity</b>.
+		Thomas Brihaye,
+		<a href="https://alinegoeminne.github.io">Aline Goeminne</a>,
+        	James C. A. Main,
+		<a href="https://randour.com">Mickael Randour</a>.
+		<i>Keynote lecture given by Thomas Brihaye at the 43rd
+        	IARCS Annual Conference on Foundations of Software
+        	Technology and Theoretical Computer Science (FSTTCS
+        	  23), LIPIcs 284, Schloss Dagstuhl</i>,
+		26 pages, 2023.
+        	[<a href="https://doi.org/10.4230/LIPIcs.FSTTCS.2023.1"
+        	    target="_blank">DOI</a>]
+	      </li>
+	      </ul>
+	    <h4>Peer-review journals</h4>
+            <ul  style="list-style-type:bullet">
+              <li>
+		        	<b>Different Strokes in Randomised Strategies: Revisiting Kuhn's Theorem under Finite-Memory Assumptions</b>.
+        	James C. A. Main,
+		<a href="https://randour.com">Mickael Randour</a>.
+		<i>Information and Computation</i>,
+        	2024.
+        	[<a href=https://doi.org/10.1016/j.ic.2024.105229 target="_blank">DOI</a>][<a href="https://arxiv.org/abs/2201.10825"
+        											   target="_blank">arXiv version</a>]
+              </li>
+	    </ul>
+            <h4>Peer-reviewed conference proceedings</h4>
+            <ul  style="list-style-type:bullet">
+	      <li>
+	       <b>Arena-Independent Memory Bounds for Nash Equilibria
+        	in Reachability Games</b>.
+        	James C. A. Main.
+		<i>41st International Symposium on Theoretical Aspects
+        	  of Computer Science (STACS 2024),
+        	  LIPIcs 289, Schloss Dagstuhl</i>,
+        	18 pages,
+        	2024.
+        	[<a href="https://doi.org/10.4230/LIPIcs.STACS.2024.50" target="_blank">DOI</a>][<a href="https://arxiv.org/abs/2310.02142"
+        											   target="_blank">Extended version on arXiv</a>]
+              </li>
+	      <li>
+        	<b>Timed Games with Bounded Window
+        	  Parity Objectives</b>.
+        	James C. A. Main,
+		<a href="https://randour.com">Mickael Randour</a>,
+		<a href="http://www.di.unito.it/~sproston/">Jeremy Sproston</a>.
+		<i>20th International Conference on Formal Modeling
+		  and  Analysis of Timed  Systems (FORMATS 2022), LNCS 13465,
+        	  Springer</i>,  17 pages, 2022,
+        	[<a href="https://arxiv.org/abs/2205.04197"
+        	    target="_blank">Extended version on arXiv</a>]
+	      </li>
+	      <li>
+        	<b>Different Strokes in Randomised Strategies: Revisiting Kuhn's Theorem under Finite-Memory Assumptions</b>.
+        	James C. A. Main,
+		<a href="https://randour.com">Mickael Randour</a>.
+		<i>33rd International Conference on
+        	  Concurrency Theory (CONCUR 2022),
+        	  LIPIcs 243, Schloss Dagstuhl</i>,
+        	18 pages,
+        	2022.
+        	[<a href=https://doi.org/10.4230/LIPIcs.CONCUR.2022.22 target="_blank">DOI</a>][<a href="https://arxiv.org/abs/2201.10825"
+        											   target="_blank">Extended version on arXiv</a>]
+              </li>					        		        <li>
+        	<b>Time Flies When Looking out of the Window: Timed Games with Window Parity Objectives</b>.
+        	James C. A. Main,
+		<a href="https://randour.com">Mickael Randour</a>,
+		<a href="http://www.di.unito.it/~sproston/">Jeremy Sproston</a>.
+		<i>32nd International Conference on Concurrency Theory (CONCUR 2021)</i>,
+        	<i>LIPIcs 203</i>,
+        	<i>Schloss Dagstuhl</i>,
+        	16 pages,
+        	2021.
+        	[<a href=https://doi.org/10.4230/LIPIcs.CONCUR.2021.25 target="_blank">DOI</a>]
+        	[<a href="https://arxiv.org/abs/2105.06686" target="_blank">Extended version on arXiv</a>]
+              </li>
+	    </ul>
+
+	    <h4>Preprints</h4>
+            <ul  style="list-style-type:bullet">
+                      <li> <b> Mixing Any Cocktail with Limited
+                      Ingredients: On the Structure of Payoff Sets in
+                      Multi-Objective MDPs and its Impact on Randomised Strategies </b>,
+         		James C. A. Main,
+			<a href="https://randour.com">Mickael
+			  Randour</a>,
+			2025. [<a href="https://arxiv.org/abs/2502.18296" target="_blank">arXiv</a>]
+        	      </li>
+		      <li> <b> Taming Infinity one Chunk at a Time: Concisely Represented Strategies in One-Counter MDPs </b>,
+			Michal Ajdarów,
+         		James C. A. Main,
+			<a href="https://randour.com">Mickael
+			  Randour</a>,
+			<a href="https://www.fi.muni.cz/~xnovot18/"> Petr Novotný</a>,
+			2025. [<a href="https://arxiv.org/abs/2503.00788" target="_blank">arXiv</a>]
+        	        </li>
+	      </ul>
+          </section> -->
+
+  <section class="section experiences-section">
+    <h2 class="section-title"><i class="fas fa-briefcase"></i>Research experience</h2>
+      <div class="item"><div class="meta"><div class="upper-row">
+        <h3 class="job-title">PhD Thesis</h3>
+          <div class="time">October 2023 - Present</div></div><!--//upper-row-->
+          <div class="company">University of Mons (UMONS)</div></div><!--//meta-->
+          <div class="details"><p>Title: Crystalline periods attached to dynamical systems.<br> Supervisor: <a href="https://staff.umons.ac.be/maja.volkov/index.html">Maja Volkov</a>.</p>
+          </div><!--//details-->
+        </div><!--//item-->
+        <div class="item"><div class="meta"><div class="upper-row">
+          <h3 class="job-title">Master&#x27;s Thesis</h3>
+            <div class="time">September 2022 - May 2023</div></div><!--//upper-row-->
+            <div class="company">University of Mons (UMONS)</div></div><!--//meta-->
+            <div class="details"><p>Title: Systèmes dynamiques p-adiques.<br> Supervisor: <a href="https://staff.umons.ac.be/maja.volkov/index.html">Maja Volkov</a>.</p>
+          </div><!--//details-->
+        </div><!--//item-->
+		  <div class="item"><div class="meta"><div class="upper-row">
+        <h3 class="job-title">Research Initiation Internship</h3>
+          <div class="time">July 2021</div></div><!--//upper-row-->
+          <div class="company">University of Mons (UMONS)</div></div><!--//meta-->
+          <div class="details"><p>Subject: Théorie de Galois infinie et cohomologie galoisienne.<br> Supervisor: Giovanni Bosco.</p>
+  </section><!--//section-->
+
+
+  <section class="section experiences-section">
+  <h2 class="section-title"><i class="far fa-calendar-alt"></i>Attended events</h2>
+    <ul style="list-style-type:disc">
+      <li><b>2025</b>:
+        <ul style="list-style-type:circle">
+          <li><a href="https://web.umons.ac.be/mapa/slaag/">Slaag!: Séminaire de Logique, Algèbre, Arithmétique et Géométrie</a>. University of Mons, Mons, Belgium (August 27).</li>
+          <li><a href="https://www.uni.lu/fstm-en/conferences/ja25/">33èmes Journées Arithmétiques</a>. University of Luxembourg, Belval, Luxembourg (June 30 - July 4).</li>
+          <li><a href="https://www.mathconf.org/itrpg2025">Iwasawa Theory and Representations of p-Adic Groups</a>. University of Lille, Lille, France (June 18 - June 20).</li>
+          <li><a href="https://bms.ulb.ac.be/conferences/young-scholar-day-2025/">Young Scholar Day 2025</a> (Belgian Mathematical Society). Katholieke Universiteit Leuven, Leuven, Belgium (June 3).</li>
+          <li><a href="https://web.umons.ac.be/mapa/slaag/">Slaag!: Séminaire de Logique, Algèbre, Arithmétique et Géométrie</a>. University of Mons, Mons, Belgium (May 14).</li>
+          <li><a href="https://web.umons.ac.be/mapa/slaag/">Slaag!: Séminaire de Logique, Algèbre, Arithmétique et Géométrie</a>. University of Mons, Mons, Belgium (May 6).</li>
+          <li><a href="https://web.umons.ac.be/mapa/slaag/">Slaag!: Séminaire de Logique, Algèbre, Arithmétique et Géométrie</a>. University of Mons, Mons, Belgium (April 30).</li>
+		      <li><a href="https://www.mathconf.org/app-gvl-winter2025?lang=gb?">Flatland Arithmetic (43rd)</a>. University of Lille, Lille, France (March 17).</li>
+		    </ul>
+      <li><b>2024</b>:
+        <ul style="list-style-type:circle">
+          <li><a href="https://bms.ulb.ac.be/conferences/recent-breakthroughs-in-mathematics-and-general-assembly-2024/">Recent Breakthroughs in Mathematics 2024</a> (Belgian Mathematical Society). Université Libre de Bruxelles, Brussels, Belgium (December 18).</li>
+          <li><a href="https://www.mathconf.org/app-gvl-winter2024b?lang=gb?">Flatland Arithmetic (42nd) & Intercity Number Theory Seminar</a>. University of Utrecht, Utrecht, The Netherlands (December 13).</li>
+          <li><a href="https://www.mathconf.org/app-gvl-autumn2024?lang=gb?">Flatland Arithmetic (41st)</a>. Université du Littoral Côte d'Opale, Calais, France (September 30).</li>
+          <li><a href="https://www.mathconf.org/app-gvl-summer2024?lang=gb?">Flatland Arithmetic (40th)</a>. University of Lille, Lille, France (June 24).</li>
+          <li>Junior Algebraic Geometry Seminar. University of Antwerp, Antwerp, Belgium (March 22).</li>
+		      <li><a href="https://www.mathconf.org/app-gvl-winter2024?lang=gb?">Flatland Arithmetic (39th)</a>. Katholieke Universiteit Leuven, Leuven, Belgium (February 5).</li>
+		    </ul>
+      <li><b>2023</b>:
+        <ul style="list-style-type:circle">
+          <li><a href="https://bms.ulb.ac.be/conferences/young-scholar-day-2023/">Young Scholar Day 2023</a> (Belgian Mathematical Society). Vrije Universiteit Brussel, Brussels, Belgium (December 20).</li>
+          <li>Groupe de contact FNRS - Analyse Fonctionnelle. University of Mons, Mons, Belgium (June 12).</li>
+		      <li>Après-midi d'analyse. University of Mons, Mons, Belgium (March 9).</li>
+		    </ul>
+      <li><b>2022</b>:
+        <ul style="list-style-type:circle">
+          <li><a href=https://www.mathconf.org/app-gvl-autumn2022b">Flatland Arithmetic (35th)</a>. University of Lille, Lille, France (December 12).</li>
+		      <li><a href="https://www.mathconf.org/app-gvl-autumn2022">Flatland Arithmetic (34th) & Intercity Number Theory Seminar</a>. University of Utrecht, Utrecht, The Netherlands (September 23).</li>
+		    </ul>
+		  <li><b>2021</b>:
+		    <ul style="list-style-type:circle">
+		      <li>Après-midi d'analyse. Université of Mons, Mons, Belgium (October 15).</li>
+		    </ul>
+      </li>
+    </ul>
+  </section><!--//section-->
+
+
+  <section class="section experiences-section">
+    <h2 class="section-title"><i class="fas fa-chalkboard"></i>Teaching</h2>
+	  <!-- <div class="item">
+      <div class="meta">
+        <div class="upper-row">
+          <div class='column2' id='teaching'>
+            <div>
+              <h3 class="job-title">Algèbre linéaire et géométrie I</h3>
+              <div class="time-strong"><small>Student teaching Assistant</small></div>
+              <div class="time-low">January 2022 - June 2023</div>
+              <div class="company">1st year</div>
+            </div>
+          </div>
+        </div>
+        <caption align="bottom"> Supervision of in-class extra exercise sessions and exam preparation.</caption>
+      </div>
+    </div> -->
+    <div class="item">
+      <div class="meta">
+        <div class="upper-row">
+          <div class='column2' id='teaching'>
+            <div>
+              <h3 class="job-title">Mathématiques élémentaires</h3>
+              <div class="time-strong"><small>Student teaching Assistant</small></div>
+              <div class="time-low">Sept - Nov 2022</div>
+              <div class="company">1st year</div>
+            </div>
+          </div>
+        </div><!--//upper-row-->
+        <caption align="bottom">Supervision of in-class exercise sessions and test grading.</caption>
+      </div><!--//meta-->
+    </div><!--//item-->
+    <div class="item">
+      <div class="meta">
+        <div class="upper-row">
+          <div class='column2' id='teaching'>
+            <div>
+              <h3 class="job-title">Algèbre linéaire et géométrie I</h3>
+              <div class="time-strong"><small>Student teaching Assistant</small></div>
+              <div class="time-low">Jan 2022 - Dec 2023</div>
+              <div class="company">1st year</div>
+            </div>
+          </div>
+        </div><!--//upper-row-->
+        <caption align="bottom"> Supervision of in-class extra exercise sessions and test grading.</caption>
+      </div><!--//meta-->
+    </div><!--//item-->
+  </section><!--//section-->
+
+  <section class="section experiences-section">
+  <h2 class="section-title"><i class="fas fa-file-pdf"></i>Other writing</h2>
+    <ul  style="list-style-type:bullet">
+	    <li>
+        <b>Des Silmarils et de la Théorie de Hodge p-adique</b>. Martin Debaisieux (2024). <i>Last updated on October 10, 2024</i>. [<a href="https://doi.org/10.4230/LIPIcs.FSTTCS.2023.1" target="_blank">PDF</a>]
+	    </li>
+      <li>
+        <b>Systèmes dynamiques p-adiques</b>. Martin Debaisieux, master's thesis supervised by <a href="https://staff.umons.ac.be/maja.volkov/index.html">Maja Volkov</a> (2023). [<a href="https://doi.org/10.4230/LIPIcs.FSTTCS.2023.1" target="_blank">Abstract</a>]
+      </li>
+      <li>
+        <b>Une étude locale de la ramification dans les extensions de corps de nombres</b>. Martin Debaisieux, master's project supervised by <a href="https://staff.umons.ac.be/maja.volkov/index.html">Maja Volkov</a> (2022). <i>Last updated on November 5, 2024</i>. [<a href="https://doi.org/10.4230/LIPIcs.FSTTCS.2023.1" target="_blank">PDF</a>]
+      </li>
+      <li>
+        <b>Introduction à la Géométrie Algébrique</b>. Martin Debaisieux, master's project supervised by <a href="https://staff.umons.ac.be/maja.volkov/index.html">Maja Volkov</a> (2022). <i>Last updated on November 14, 2024</i>. [<a href="https://doi.org/10.4230/LIPIcs.FSTTCS.2023.1" target="_blank">Preparation</a>] [<a href="https://doi.org/10.4230/LIPIcs.FSTTCS.2023.1" target="_blank">PDF</a>]
+      </li>
+      <li>
+        <b>Notes sur les représentations C-linéaires des groupes finis</b>. Martin Debaisieux, master's project supervised by <a href="https://staff.umons.ac.be/maja.volkov/index.html">Maja Volkov</a> (2022). <i>Last updated on December 7, 2024</i>. [<a href="https://doi.org/10.4230/LIPIcs.FSTTCS.2023.1" target="_blank">PDF</a>]
+      </li>
+      <li>
+        <b>Une introduction analytique aux corps ultramétriques</b>. Martin Debaisieux, master's project supervised by <a href="https://menet.perso.math.cnrs.fr/indexEN.html">Quentin Menet</a> (2022).<i> Last updated on November 5, 2024</i>. [<a href="https://doi.org/10.4230/LIPIcs.FSTTCS.2023.1" target="_blank">PDF</a>]
+      </li>
+      <li>
+        <b>Théorie algébrique des nombres</b>. Martin Debaisieux, master's project supervised by <a href="https://staff.umons.ac.be/maja.volkov/index.html">Maja Volkov</a> (2022).<i> Last updated on June 13, 2022</i>. [<a href="https://doi.org/10.4230/LIPIcs.FSTTCS.2023.1" target="_blank">PDF</a>]
+      </li>
+      <li>
+        <b>Initiation à l'Algèbre Catégorique</b>. Martin Debaisieux, <a href="https://staff.umons.ac.be/Valentin.DUSOLLIER/index.html">Valentin Dusollier</a>, master's project supervised by <a href="https://staff.umons.ac.be/maja.volkov/index.html">Maja Volkov</a> (2022).<i> Last updated on June 4, 2022</i>. [<a href="https://doi.org/10.4230/LIPIcs.FSTTCS.2023.1" target="_blank">PDF1</a>] [<a href="https://doi.org/10.4230/LIPIcs.FSTTCS.2023.1" target="_blank">PDF2</a>]
+      </li>
+      <li>
+        <b>Théorie de Galois infinie et cohomologie galoisienne</b>. Martin Debaisieux, research initiation internship supervised by Giovanni Bosco (2021). <i>Last updated on September 27, 2021</i>. [<a href="https://doi.org/10.4230/LIPIcs.FSTTCS.2023.1" target="_blank">PDF</a>]
+      </li>
+	  </ul>
+  </section>
+
+          </div><!--//main-body-->
+	  </div>
+
+	  <footer class="footer">
+            <div class="text-center">
+              <!--/* This template is released under the Creative Commons Attribution 3.0 License. Please keep the attribution link below when using for your own project. Thank you for your support. :) If you'd like to use the template without the attribution, you can check out other license options via our website: themes.3rdwavemedia.com */-->
+              <small class="copyright">Designed
+		<!--with <i class="fa fa-heart"></i>-->
+		by
+		<a href="http://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a>,
+		<a href='https://alinegoeminne.github.io/'>Aline Goeminne</a>,
+		<a href='https://clement.tamin.es/'>Clément Tamines</a> and
+		<a href='https://delgrange.me/'>Florent Delgrange</a>.</small>
+            </div><!--//container-->
+	  </footer><!--//footer-->
+
+	  <!-- Javascript -->
+	  <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+	  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	  <!-- custom js -->
+	  <script type="text/javascript">
+            jQuery(document).ready(function($) {
+
+
+		/*======= Skillset *=======*/
+
+
+		$('.level-bar-inner').css('width', '0');
+
+		$('.level-bar-inner').each(function() {
+
+		    var itemWidth = $(this).data('level');
+
+		    $(this).animate({
+			width: itemWidth
+		    }, 800);
+
+		});
+
+
+
+	    });
+	  </script>
+    </body>
+</html>
